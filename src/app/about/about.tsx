@@ -6,10 +6,7 @@ export default function About() {
         
         <html lang="en">
             <main className={styles.main}>
-            {
-
-            }
-
+        
             <head />
             <nav>
                 <h1>HEEEY</h1>
@@ -19,7 +16,6 @@ export default function About() {
                     <li>3</li>
                 </ul>
             </nav>
-            {children}
             </main>
         </html>
     )
