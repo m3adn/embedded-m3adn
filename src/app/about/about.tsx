@@ -1,9 +1,10 @@
 import Image from 'next/image'
 import styles from './page.module.css'
 
-
 export default function About() {
     return (
+        
+        <html lang="en">
             <main className={styles.main}>
         
             <head />
@@ -15,7 +16,8 @@ export default function About() {
                     <li>3</li>
                 </ul>
             </nav>
+
             </main>
- 
+        </html>
     )
 }
