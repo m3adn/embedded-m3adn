@@ -1,6 +1,6 @@
 export default function AboutHead() {
     return ( <>
-    <title>ABOUT HEY HEYs</title>
+    <title>ABOUT HEY HEYas</title>
     
     </>
     );
