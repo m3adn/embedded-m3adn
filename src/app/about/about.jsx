@@ -19,6 +19,7 @@ export default function About() {
                     <li>3</li>
                 </ul>
             </nav>
+            {children}
             </main>
         </html>
     )
