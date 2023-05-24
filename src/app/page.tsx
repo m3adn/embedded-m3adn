@@ -5,6 +5,8 @@ export default function Home() {
   return (
     <main className={styles.main}>
      Hello World!
+
+     Why are you gay?
     </main>
   )
 }
